@@ -32,6 +32,7 @@ application detection, respectively. Simulation results unveil that
 our proposed network is very promising for classifying trafﬁc at
 L7 using the L1 packet.
 ## Architecture of the proposed hybrid deep neural network
+![](Architecture%20of%20the%20deep%20hybrid%20neural%20network.png)
 ## Dataset
 [IDLAB-UA Dataset for Traffic Classification using Spectrum Data](https://zenodo.org/record/5208201#.YpsMUHZByUk): This dataset contains IQ values of physical layer (L1) packets associated with WLAN transmission and the set of labels that associated each of the packets to properties/features at different radio stack layer (from L1 to L7) and published by [link](https://ieeexplore.ieee.org/document/9626148). 
 ## How to cite
